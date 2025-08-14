@@ -13,4 +13,5 @@ and Tampermonkey will let you to install the script.
 - Visit wplace.  
 -In the bottom-right corner, you will see an icon called Hotkeys. Click it to open your color palette. If some colors are missing, fully expand the palette, and all options will appear in the UI, if you dont open the color palette nothing will show up.
 ## Screenshot
-(Screenshot6.png)
+![Screenshot6](Screenshot6.png)
+
