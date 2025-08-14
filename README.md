@@ -15,7 +15,7 @@ A Tampermonkey userscript for [wplace.live](https://wplace.live) that allows you
 
 ## Usage
 1. Visit [wplace.live](https://wplace.live).  
-2. In the bottom-right corner, you will see an icon called **Hotkeys**. Click it to open your color palette.  
+2. In the bottom-right corner, you will see an icon called **Hotkeys**. Click it and open your color palette.  
 3. If some colors are missing, fully expand the palette, and all options will appear in the UI.  
 4. **Note:** If you don’t open the color palette, nothing will show up.
 
