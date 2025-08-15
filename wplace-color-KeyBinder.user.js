@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         wplace.live — Hotkeys All Colors
+// @name         anayy_n-wplace.live—color-Binder
 // @version      1.0
 // @description  Assign hotkeys to all colors on wplace.live; supports side mouse buttons
 // @author       Anayy_n
